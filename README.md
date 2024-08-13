@@ -27,7 +27,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,express,postman,mongodb,figma,nodejs,js,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,express,postman,mongodb,figma,nodejs,js,npm,&perline=5)](https://skillicons.dev)
 
 ![Akhtar Ali GitHub stats](https://github-readme-stats.vercel.app/api?username=akhtarali34&show_icons=true&theme=dark)
 
